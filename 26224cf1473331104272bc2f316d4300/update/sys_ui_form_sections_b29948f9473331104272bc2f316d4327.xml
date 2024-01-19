@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="b29948f9473331104272bc2f316d4327" sys_domain="global" table="x_1299822_homework_student_registration_form" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-18 05:23:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>369948f9473331104272bc2f316d4381</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1299822_homework_student_registration_form" name="x_1299822_homework_student_registration_form" sys_domain="global" view="Default view">b29948f9473331104272bc2f316d4327</sys_ui_form>
+            <sys_ui_section caption="Personal" display_value="Personal" name="x_1299822_homework_student_registration_form" sys_domain="global" view="Default view">69d64035473331104272bc2f316d4395</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-18 05:23:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-18 05:23:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>329948f9473331104272bc2f316d4382</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1299822_homework_student_registration_form" name="x_1299822_homework_student_registration_form" sys_domain="global" view="Default view">b29948f9473331104272bc2f316d4327</sys_ui_form>
+            <sys_ui_section caption="Education" display_value="Education" name="x_1299822_homework_student_registration_form" sys_domain="global" view="Default view">3e9948f9473331104272bc2f316d4324</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-18 05:23:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-18 05:23:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7e9948f9473331104272bc2f316d4385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1299822_homework_student_registration_form" name="x_1299822_homework_student_registration_form" sys_domain="global" view="Default view">b29948f9473331104272bc2f316d4327</sys_ui_form>
+            <sys_ui_section caption="Programme Applying for" display_value="Programme Applying for" name="x_1299822_homework_student_registration_form" sys_domain="global" view="Default view">f69948f9473331104272bc2f316d4325</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-18 05:23:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-18 05:23:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a9948f9473331104272bc2f316d4389</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1299822_homework_student_registration_form" name="x_1299822_homework_student_registration_form" sys_domain="global" view="Default view">b29948f9473331104272bc2f316d4327</sys_ui_form>
+            <sys_ui_section caption="Results" display_value="Results" name="x_1299822_homework_student_registration_form" sys_domain="global" view="Default view">b29948f9473331104272bc2f316d4326</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-18 05:23:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1299822_homework_student_registration_form</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-18 05:23:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b29948f9473331104272bc2f316d4327</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1299822_homework_student_registration_form</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="homework" source="x_1299822_homework">26224cf1473331104272bc2f316d4300</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="homework">26224cf1473331104272bc2f316d4300</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b29948f9473331104272bc2f316d4327</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-18 05:23:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

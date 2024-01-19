@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="homework">bf968035473331104272bc2f316d4398</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Student Registration Form</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>1</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-18 05:10:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3f960c39473331104272bc2f316d431e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Student Registration Form</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="homework" source="x_1299822_homework">26224cf1473331104272bc2f316d4300</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="homework">26224cf1473331104272bc2f316d4300</sys_scope>
+        <sys_update_name>sys_app_module_3f960c39473331104272bc2f316d431e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-18 05:10:17</sys_updated_on>
+        <timeline_page/>
+        <title>Student Registration Form</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="9966c439473331104272bc2f316d4325" label="Student Registration Form" max_length="40" name="x_1299822_homework_student_registration_form" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Country" mandatory="true" max_length="40" name="country" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="India" value="india"/>
+                <element inactive_on_update="false" label="Nigeria" value="nigeria"/>
+                <element inactive_on_update="false" label="Pakistan" value="pakistan"/>
+                <element inactive_on_update="false" label="Usa" value="usa"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="First Name" mandatory="true" max_length="40" name="first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Gender" mandatory="true" max_length="40" name="gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Female" value="female"/>
+                <element inactive_on_update="false" label="Male" value="male"/>
+                <element inactive_on_update="false" label="Other" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Last name" mandatory="true" max_length="40" name="last_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Middle name" mandatory="true" max_length="40" name="middle_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Form Number" max_length="40" name="number" type="string"/>
+        <element label="Phone number" max_length="40" name="phone_number" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" label="School city" mandatory="true" max_length="40" name="school_city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="School state" mandatory="true" max_length="40" name="school_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date of Birth" mandatory="true" max_length="40" name="u_calendar_date_time_3" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Select Programme" mandatory="true" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="B.Tech" sequence="0" value="b.tech"/>
+                <element inactive_on_update="false" label="M.Tech" sequence="1" value="m.tech"/>
+                <element inactive_on_update="false" label="B.S.C" sequence="2" value="b.s.c"/>
+                <element inactive_on_update="false" label="M.S.C" sequence="3" value="m.s.c"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Course" mandatory="true" max_length="40" name="u_choice_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Computer Science" sequence="0" value="computer science"/>
+                <element inactive_on_update="false" label="Civil" sequence="1" value="civil"/>
+                <element inactive_on_update="false" label="Mechanical" sequence="2" value="mechanical"/>
+                <element inactive_on_update="false" label="Mathematics" sequence="3" value="mathematics"/>
+                <element inactive_on_update="false" label="Chemistry" sequence="4" value="chemistry"/>
+                <element inactive_on_update="false" label="Physics" sequence="5" value="physics"/>
+            </choice>
+        </element>
+        <element label="Jee Marksheet" mandatory="true" max_length="40" name="u_file_attachment_1" type="file_attachment"/>
+        <element label="12th Board Marksheet" max_length="40" name="u_file_attachment_2" type="file_attachment"/>
+        <element label="12th Board Score" mandatory="true" max_length="40" name="u_integer_5" type="integer"/>
+        <element label="Jee Mains Score" mandatory="true" max_length="40" name="u_integer_6" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" dependent="gender" dependent_on_field="gender" label="Enter Gender" max_length="40" name="u_string_1" type="string" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" label="E-mail" mandatory="true" max_length="40" name="u_string_8" type="string"/>
+    </element>
+</database>
